@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonaChM >> Jonathan
-- 👀 I’m interested in python development, more focused on machine learning and some data science. 
-- 🌱 I’m currently learning AI with Harvard free courses
-- 💞️ I’m looking to collaborate on anything on a basic level. 
+- 👀 I’m interested in python development, more focused on machine learning, AI and data science. 
+- 🌱 I’m currently learning AI with Harvard free courses and some online challenges.
+- 💞️ I’m looking to collaborate on anything on a intermediate level. 
 - 📫 How to reach me ... still not there.
 
 <!---
